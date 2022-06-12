@@ -1,10 +1,14 @@
 # testwork1
 
 
-compile :
- cd {}\testwork1\src\main\java
+compile :  
 
- javac ./org/home/TestWork1.java
+```console
+#>javac TestWork1.java
+```
 
 run:
- java org/home/TestWork1 3 3 2
+
+```console
+#>java TestWork1 3 3 2
+```

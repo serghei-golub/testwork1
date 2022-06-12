@@ -1,5 +1,3 @@
-package org.home;
-
 public class TestWork1 {
 
 	static String[][] map_arr;
